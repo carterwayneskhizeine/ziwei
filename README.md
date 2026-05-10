@@ -133,3 +133,7 @@ MIT License
 - [ClaudeCode](https://www.aicodemirror.com/register?invitecode=R2A5HD) - ClaudeCode 镜像站 国内加速 注册即送额度
 - [iztro](https://github.com/SylarLong/iztro) - 紫微斗数排盘库
 - [lifekline](https://github.com/AICryptoHK/lifekline) - K线设计参考
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ruijayfeng/ziwei&type=Date)](https://star-history.com/#ruijayfeng/ziwei&Date)
+
