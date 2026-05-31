@@ -4,6 +4,7 @@
    ============================================================ */
 
 import { useState, type ReactNode } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import { BirthForm } from '@/components/BirthForm'
 import { ChartDisplay } from '@/components/chart'
 import { AIInterpretation } from '@/components/AIInterpretation'
@@ -325,6 +326,8 @@ export default function App() {
           <span className="text-star/60">☆</span>
         </p>
       </footer>
+
+      <Analytics />
     </div>
   )
 }
